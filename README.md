@@ -1,5 +1,5 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Marlon!
+# 👋 Olá! Bem-vindo ao meu perfil no GitHub.
+## Meu nome é Marlon!
 
 💻 Sou Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI e atualmente curso ADS na FMP.
 
