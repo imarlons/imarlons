@@ -2,7 +2,9 @@
 ## My name is Marlon!
 
 💻 Sou Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI e atualmente curso ADS na FMP.
+
 📚 Tenho estudado e explorado novas tecnologias na área de desenvolvimento de sistemas, aproveitando e me divertindo com o processo.
+
 💡 Sou novo na área tech, mas espero que em breve possa contribuir para o desenvolvimento de novas ferramentas e soluções para o mundo..
 
 <div>
