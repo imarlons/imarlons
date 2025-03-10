@@ -5,7 +5,7 @@
 
 📚 Tenho estudado e explorado novas tecnologias na área de desenvolvimento de sistemas, aproveitando e me divertindo com o processo.
 
-💡 Sou novo na área tech, mas espero que em breve possa contribuir para o desenvolvimento de novas ferramentas e soluções para o mundo..
+💡 Sou novo na área tech, mas espero que em breve possa contribuir para o desenvolvimento de novas ferramentas e soluções para o mundo.
 
 <div>
 <a href="https://github.com/imarlons">
